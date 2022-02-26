@@ -32,9 +32,9 @@ class ImageGenerator:
         Returns:
             dict: the json object parsed as a dictionary
         """
-        config = json.load(config)
+        config_dict = json.load(config)
         config.close()
-        return config
+        return config_dict
 
 
     def generate_params(self)->str:
