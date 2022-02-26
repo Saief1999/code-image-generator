@@ -2,7 +2,9 @@
 
 ## Overview
 
-Generate images from code using `Ray.so` unofficial API.
+Generate images from code using `Ray.so`.
+
+![](./resources/demo.gif)
 
 ## Usage 
 

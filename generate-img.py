@@ -73,5 +73,5 @@ if __name__=="__main__":
 
     args = parser.parse_args()
     
-    generator = ImageGenerator(args.src, {args.title}, args.config)
+    generator = ImageGenerator(args.src, args.title, args.config)
     generator.download_img()
