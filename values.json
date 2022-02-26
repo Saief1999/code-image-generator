@@ -1,0 +1,41 @@
+{
+    "colors": [
+        "candy",
+        "breeze",
+        "midnight",
+        "sunset"
+    ]
+    ,
+    "padding": [
+        16,
+        32,
+        64,
+        128
+    ],
+    "background": [
+        "true",
+        "false"
+    ],
+    "darkMode": [
+        "true",
+        "false"
+    ],
+    "language": [
+        "auto",       "bash",         "csharp",
+        "Clojure",    "coffeescript", "crystal",
+        "css",        "d",            "dart",
+        "diff",       "dockerfile",   "elm",
+        "erlang",     "fortran",      "gherkin",
+        "Go",         "groovy",       "haskell",
+        "java",       "javascript",   "json",
+        "jsx",        "julia",        "kotlin",
+        "latex",      "lisp",         "lua",
+        "markdown",   "octave",       "nginx",
+        "objectivec", "ocaml",        "perl",
+        "php",        "powershell",   "python",
+        "r",          "ruby",         "rust",
+        "scala",      "smalltalk",    "swift",
+        "typescript", "twig",         "verilog",
+        "vhdl",       "xquery",       "yaml"
+      ]
+}
